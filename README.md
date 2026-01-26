@@ -3,6 +3,7 @@ Interactive Sales Performance Dashboard built with Excel to track revenue, order
 <img width="1332" height="658" alt="2" src="https://github.com/user-attachments/assets/9d850214-5fb9-4b6b-b2d4-3ec4dbba20b4" />
 
 Sales Performance Analysis Dashboard
+
 📌 Project Overview
 This dashboard provides a comprehensive analysis of sales transactions, designed to help business stakeholders monitor performance and identify growth opportunities across different markets. The analysis covers key metrics like total revenue, order count, and regional sales distribution.
 
